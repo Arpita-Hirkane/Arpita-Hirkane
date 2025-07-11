@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**Arpita-Hirkane/Arpita-Hirkane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on **Smart Agriculture Drone Simulation** and **SHE-ALERT PRO** – AI-based projects that solve real-world problems using Python, voice assistants, and automation.<br><br>🌱 I’m currently learning **Embedded Systems**, **Electric Vehicle Systems**, and advancing my skills in **AI + IoT integration**.<br><br>👯 I’m looking to collaborate on **tech-for-good projects** – especially in **agriculture, women’s safety, and environmental tech**.<br><br>🤔 I’m looking for help with **hardware integration**, **startup mentorship**, and **getting genuine internships** in core electronics or AI-based startups.<br><br>💬 Ask me about **Python-based simulations, women safety solutions, smart drone logic, NPTEL courses, and project idea validation.**<br><br>📫 How to reach me:  <br>**LinkedIn:** https://www.linkedin.com/in/arpita-hirkane-8a262027a/<br>**Email:** arpitahirkane@gmail.com<br><br>😄 Pronouns: **She/Her**<br><br>⚡ Fun fact: I love turning simple ideas into powerful simulations that talk, fly, and even think — all with Python and passion!<br>
 
 
@@ -26,5 +12,10 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Arpita-Hirkane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita-Hirkane&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arpita-Hirkane&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Arpita-Hirkane&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
